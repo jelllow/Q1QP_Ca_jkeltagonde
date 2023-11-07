@@ -1,0 +1,142 @@
+*{
+    background-color: beige;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: #8fbc8f;
+    top: 0px;
+    position: fixed;
+    height: 7vw;
+    width: 100%;
+}
+
+.navbar img{
+    width: 4vw;
+    height: 4vw;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: #556b2e;
+}
+
+.navbar li{
+    list-style-type: none;
+    margin: 5px;
+}
+
+.links{
+    display: block;
+}
+
+.links a{
+    text-decoration: none;
+    background-color: darkolivegreen;
+    float: right;
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    font-size: larger;
+}
+
+.body{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+.body p{
+    margin-right: 40px;
+    margin-left: 30px;
+    text-align: justify;
+}
+
+.body li{
+    list-style-type: none;
+    margin-right: 40px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.abtus{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#img1{
+    float: left;
+    border-radius: 500px;
+    width: 200px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+#img2{
+    float: left;
+    border-radius: 500px;
+    width: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+#img3{
+    float: left;
+    border-radius: 500px;
+    width: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.cr{
+    margin-left: 30px;
+    font-size: 2vw;
+}
+
+.ref{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 2vw;
+}
+
+.study{
+    margin-left: 30px;
+    font-size: 2vw;
+}
+
+.content{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 2vw;
+}
+
+.title{
+    margin-left: 50px;
+    font-size: 2vw;
+}
+
+.footer{
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    background-color: darkseagreen;
+}
+
+.ftext{
+    margin-left: 15px;
+    margin-top: 8px;
+    float: left;
+    background-color: darkseagreen;
+}
+
+.footer li{
+    list-style-type: none;
+    float: right;
+}
+
+.lgs{
+    height: 30px;
+    width: 35px;
+    float: right;
+}
